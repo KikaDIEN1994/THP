@@ -32,5 +32,5 @@ compteur=0
         puts "#{compteur}"
     end
 
-    puts "Félicitation tu a terminé"
+    puts "Félicitation tu a terminé le jeu"
 
